@@ -10,7 +10,7 @@
 // automatically by the translators. This information is given for context only.
 // Jack, the Jack compiler, and the VM translator are covered in Part II
 // of the course, and are irrelevant for project 6.
-
+ 
 @256
 D=A
 @SP

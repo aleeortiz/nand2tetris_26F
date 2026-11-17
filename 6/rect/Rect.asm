@@ -17,7 +17,7 @@
    // addr = base address of first screen row
    @SCREEN
    D=A
-   @addr
+   @addr 
    M=D
 (LOOP)
    // RAM[addr] = -1
